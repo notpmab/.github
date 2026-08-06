@@ -1,3 +1,5 @@
+<div align="center">
+
 # Blast From The Past !!
 
 <a href="#">
@@ -15,3 +17,5 @@
 <a href="#">
   <img src="../images/2537.jpg" alt="">
 </a>
+
+</div>
