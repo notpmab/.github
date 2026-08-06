@@ -30,4 +30,6 @@
   <img src="../images/2538.jpg" alt="">
 </a>
 
+### Ging Mo Kune translates from Cantonese as "The Essence of Martial Arts" (Ging Mo meaning essence of martial arts, and Kune meaning fist or martial art style). It is a traditional style of Chinese martial arts rooted in Southern Praying Mantis (Chow Gar Tong Long) and internal energy practices
+
 </div>
